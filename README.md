@@ -1,7 +1,7 @@
 # Portfolio
 why I did as project manager 
 
-## AI-Agen for code migration
+## AI-Agent for code migration
 
 **Client / Industry:** Profesional services, management platform (NDA)
 **Duration:** 1 month
