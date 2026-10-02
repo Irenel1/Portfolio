@@ -3,7 +3,7 @@ why I did as project manager
 
 ## AI-Agen for code migration
 
-**Client / Industry:** Catalog platform for physical goods (connects companies listing items with buyers) — NDA
+**Client / Industry:** Profesional services, management platform (NDA)
 **Duration:** 1 month
 **Team size:** 2 (1 Data Science Lead, 1 Data Science Engineer), collaborating with the implementation team's Business Analyst and Tech Lead on validation
 
