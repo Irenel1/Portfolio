@@ -1,5 +1,5 @@
 # Portfolio
-why I did as project manager 
+What I’ve delivered as a project manager
 
 ## AI-Agent for code migration
 
@@ -7,11 +7,14 @@ why I did as project manager
 **Duration:** 1 month
 **Team size:** 2 (1 Data Science Lead, 1 Data Science Engineer), collaborating with the implementation team's Business Analyst and Tech Lead on validation
 
-### POC for code rewrite 
-A legacy product needed migration from JSP to JavaScript. Rather than a manual rewrite, it was decided to buid AI agent  to accelerate the migration,  to save time and cost impact while maintaining quality.
+### Project Description
+Code rewrite approach POC: legacy product needed migration from JSP to JavaScript. Rather than a manual rewrite, it was decided to buid AI agent  to accelerate the migration,  to save time and cost impact while maintaining quality. Goal of the projec to build Agent and validate its efficiency comparing to manual rewrite.
 
 ### My role as PM
-I coordinated development and validation of the AI agent used to accelerate the rewrite, collaborated with the implementation team's BA and Tech Lead on validation — running iterative test examples and refining the agent based on their feedback — calculated time and cost savings from AI-assisted rewriting versus manual migration, and reported validation results and savings to stakeholders.
+- Coordinated development and validation of the AI agent that accelerated the rewrite
+- Worked with the implementation team’s BA and Tech Lead to validate outputs, running iterative test examples and refining the agent from their feedback
+- Defined the success metrics and calculated time and cost savings versus manual migration
+- Reported validation results and savings to stakeholders
 
 ### Competencies 
 - **Cost-benefit analysis:** quantified time and cost impact of AI-assisted rewriting against manual migration as the basis for the recommendation
@@ -34,9 +37,9 @@ Define scope for the POC, access artifacts,  bring right people to evaluate core
 
 ## Internal Survey Creation, Distribution, and Analysis Application
 
-**Client / Industry:** Consulting company, international
+**Client / Industry:** Consulting services
 **Duration:** 5 months
-**Team size:** 7
+**Team size:** 7 (Designer, Business Analyst, Tech Lead, Software Engineers (3), QA)
 
 ### Project description
 An internal application for creating and sending surveys, with initial analysis of the results.
